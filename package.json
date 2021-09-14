@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "LemonGirl",
+  "version": "5.0.0",
+  "repository": "",
+  "description": "Bot made by Misaa",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.4.0",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "license": "ISC"
+}
